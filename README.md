@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Front Mission 3 Remake" width="640">
 </p>
 
-<h1 align="center">Front Mission 3 Remake — +10 Trainer</h1>
+<h1 align="center">Front Mission 3 Remake — +11 Trainer</h1>
 
 <p align="center">
   <a href="https://github.com/NTGBlack/fm3r-trainer/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/NTGBlack/fm3r-trainer?label=download&color=f0a332&style=for-the-badge"></a>
@@ -49,6 +49,7 @@ Each release is made for **one game version**. Tags look like `g1.1.1-r1` = game
 | `F7` / `F8` | EXP + AceRank multiplier 1x – 100x |
 | `Delete` · hold `Ctrl+X` | Game speed 0.1x – 10x · temporary boost |
 | `F11` · `Shift+F11` | Max weight (Body Power) bonus / custom value |
+| `Insert` | Add money (any amount) · or set the exact amount in the trainer |
 
 ### How to use
 
@@ -92,6 +93,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `F7` / `F8` | ตัวคูณ EXP + AceRank 1x – 100x |
 | `Delete` · กดค้าง `Ctrl+X` | ความเร็วเกม 0.1x – 10x · เร่งชั่วคราว |
 | `F11` · `Shift+F11` | น้ำหนักสูงสุด (Body Power) โบนัส / กำหนดเอง |
+| `Insert` | เพิ่มเงิน (กำหนดจำนวนเอง) · หรือตั้งยอดเงินใน trainer |
 
 ### วิธีใช้
 
@@ -135,6 +137,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `F7` / `F8` | 经验 + AceRank 倍率 1x – 100x |
 | `Delete` · 按住 `Ctrl+X` | 游戏速度 0.1x – 10x · 临时加速 |
 | `F11` · `Shift+F11` | 最大负重（Body Power）加成 / 自定义 |
+| `Insert` | 增加金钱（自定义金额）· 也可在修改器中直接设定 |
 
 ### 使用方法
 
@@ -178,6 +181,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `F7` / `F8` | EXP + AceRank 倍率 1x – 100x |
 | `Delete` · `Ctrl+X` 長押し | ゲーム速度 0.1x – 10x · 一時的に加速 |
 | `F11` · `Shift+F11` | 最大重量（Body Power）ボーナス / カスタム |
+| `Insert` | 資金を追加（金額指定）· トレーナーで直接設定も可 |
 
 ### 使い方
 
@@ -221,6 +225,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `F7` / `F8` | EXP + AceRank 배율 1x – 100x |
 | `Delete` · `Ctrl+X` 누르고 있기 | 게임 속도 0.1x – 10x · 일시 가속 |
 | `F11` · `Shift+F11` | 최대 중량 (Body Power) 보너스 / 직접 입력 |
+| `Insert` | 자금 추가 (금액 지정) · 트레이너에서 직접 설정도 가능 |
 
 ### 사용 방법
 
