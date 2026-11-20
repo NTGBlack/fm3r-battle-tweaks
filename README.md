@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Front Mission 3 Remake" width="640">
 </p>
 
-<h1 align="center">Front Mission 3 Remake — +11 Trainer</h1>
+<h1 align="center">Front Mission 3 Remake — +15 Trainer</h1>
 
 <p align="center">
   <a href="https://github.com/NTGBlack/fm3r-trainer/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/NTGBlack/fm3r-trainer?label=download&color=f0a332&style=for-the-badge"></a>
@@ -31,7 +31,7 @@
 | Game | Front Mission 3 Remake (Steam) |
 | Windows | 10 (version 1903+) / 11 — 64-bit |
 | Install | Nothing — one `.exe`, uses .NET Framework 4.8 built into Windows |
-| Languages | English · ไทย · 中文 · 日本語 · 한국어 (🌐 button, top right) |
+| Languages | English · ไทย · 中文 · 日本語 · 한국어 (🌐 button, top left) |
 
 Each release is made for **one game version**. Tags look like `g1.1.1-r1` = game **1.1.1**, trainer revision **1**.
 
@@ -50,6 +50,11 @@ Each release is made for **one game version**. Tags look like `g1.1.1-r1` = game
 | `Delete` · hold `Ctrl+X` | Game speed 0.1x – 10x · temporary boost |
 | `F11` · `Shift+F11` | Max weight (Body Power) bonus / custom value |
 | `Insert` | Add money (any amount) · or set the exact amount in the trainer |
+| `Shift+F5` | Unlimited ammo (your units) |
+| `PgUp` / `PgDn` | Battle-skill activation rate 1x – 100x (your units) |
+| `Home` / `End` | Skill combo (chain) rate 1x – 100x |
+| — | Skill learn rate 1x – 100x (set in the trainer) |
+| — | Pilot battle skills editor: add / remove skills, level 1 – 6 (saved with your game) |
 
 ### How to use
 
@@ -75,7 +80,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | เกม | Front Mission 3 Remake (Steam) |
 | Windows | 10 (เวอร์ชัน 1903 ขึ้นไป) / 11 — 64-bit |
 | การติดตั้ง | ไม่ต้องติดตั้ง — ไฟล์ `.exe` ไฟล์เดียว ใช้ .NET Framework 4.8 ที่มากับ Windows |
-| ภาษา | English · ไทย · 中文 · 日本語 · 한국어 (ปุ่ม 🌐 มุมขวาบน) |
+| ภาษา | English · ไทย · 中文 · 日本語 · 한국어 (ปุ่ม 🌐 มุมซ้ายบน) |
 
 แต่ละ release ทำมาสำหรับ**เกมเวอร์ชันเดียว** ชื่อแท็กเช่น `g1.1.1-r1` = เกม **1.1.1** trainer ครั้งที่ **1**
 
@@ -94,6 +99,11 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `Delete` · กดค้าง `Ctrl+X` | ความเร็วเกม 0.1x – 10x · เร่งชั่วคราว |
 | `F11` · `Shift+F11` | น้ำหนักสูงสุด (Body Power) โบนัส / กำหนดเอง |
 | `Insert` | เพิ่มเงิน (กำหนดจำนวนเอง) · หรือตั้งยอดเงินใน trainer |
+| `Shift+F5` | กระสุนไม่จำกัด (ฝ่ายเรา) |
+| `PgUp` / `PgDn` | อัตราออกสกิลต่อสู้ 1x – 100x (ฝ่ายเรา) |
+| `Home` / `End` | อัตราคอมโบสกิล 1x – 100x |
+| — | อัตราเรียนสกิล 1x – 100x (ตั้งใน trainer) |
+| — | แก้ไขสกิลนักบิน: เพิ่ม / ลบสกิล ระดับ 1 – 6 (บันทึกลงเซฟ) |
 
 ### วิธีใช้
 
@@ -119,7 +129,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | 游戏 | Front Mission 3 Remake（Steam） |
 | Windows | 10（1903 版或更新）/ 11 — 64 位 |
 | 安装 | 无需安装 — 单个 `.exe`，使用 Windows 自带的 .NET Framework 4.8 |
-| 语言 | English · ไทย · 中文 · 日本語 · 한국어（右上角 🌐 按钮） |
+| 语言 | English · ไทย · 中文 · 日本語 · 한국어（左上角 🌐 按钮） |
 
 每个版本只对应**一个游戏版本**。标签如 `g1.1.1-r1` = 游戏 **1.1.1**，修改器第 **1** 版。
 
@@ -138,6 +148,11 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `Delete` · 按住 `Ctrl+X` | 游戏速度 0.1x – 10x · 临时加速 |
 | `F11` · `Shift+F11` | 最大负重（Body Power）加成 / 自定义 |
 | `Insert` | 增加金钱（自定义金额）· 也可在修改器中直接设定 |
+| `Shift+F5` | 无限弹药（我方） |
+| `PgUp` / `PgDn` | 战斗技能发动率 1x – 100x（我方） |
+| `Home` / `End` | 技能连携率 1x – 100x |
+| — | 技能学习率 1x – 100x（在修改器中设定） |
+| — | 驾驶员技能编辑：添加 / 删除技能，等级 1 – 6（随存档保存） |
 
 ### 使用方法
 
@@ -163,7 +178,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | ゲーム | Front Mission 3 Remake（Steam） |
 | Windows | 10（バージョン 1903 以降）/ 11 — 64 ビット |
 | インストール | 不要 — `.exe` 1 つだけ。Windows 標準搭載の .NET Framework 4.8 を使用 |
-| 言語 | English · ไทย · 中文 · 日本語 · 한국어（右上の 🌐 ボタン） |
+| 言語 | English · ไทย · 中文 · 日本語 · 한국어（左上の 🌐 ボタン） |
 
 各リリースは**1 つのゲームバージョン**専用です。タグ例 `g1.1.1-r1` = ゲーム **1.1.1**、トレーナー第 **1** 版。
 
@@ -182,6 +197,11 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `Delete` · `Ctrl+X` 長押し | ゲーム速度 0.1x – 10x · 一時的に加速 |
 | `F11` · `Shift+F11` | 最大重量（Body Power）ボーナス / カスタム |
 | `Insert` | 資金を追加（金額指定）· トレーナーで直接設定も可 |
+| `Shift+F5` | 弾薬無限（味方） |
+| `PgUp` / `PgDn` | バトルスキル発動率 1x – 100x（味方） |
+| `Home` / `End` | スキル連携率 1x – 100x |
+| — | スキル習得率 1x – 100x（トレーナーで設定） |
+| — | パイロットのスキル編集：スキルの追加 / 削除、レベル 1 – 6（セーブに保存） |
 
 ### 使い方
 
@@ -207,7 +227,7 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | 게임 | Front Mission 3 Remake (Steam) |
 | Windows | 10 (버전 1903 이상) / 11 — 64비트 |
 | 설치 | 필요 없음 — `.exe` 파일 하나, Windows에 기본 포함된 .NET Framework 4.8 사용 |
-| 언어 | English · ไทย · 中文 · 日本語 · 한국어 (오른쪽 위 🌐 버튼) |
+| 언어 | English · ไทย · 中文 · 日本語 · 한국어 (왼쪽 위 🌐 버튼) |
 
 각 릴리스는 **하나의 게임 버전** 전용입니다. 태그 예: `g1.1.1-r1` = 게임 **1.1.1**, 트레이너 **1**번째 버전.
 
@@ -226,6 +246,11 @@ Single-player only. Use at your own risk. Not affiliated with the game's publish
 | `Delete` · `Ctrl+X` 누르고 있기 | 게임 속도 0.1x – 10x · 일시 가속 |
 | `F11` · `Shift+F11` | 최대 중량 (Body Power) 보너스 / 직접 입력 |
 | `Insert` | 자금 추가 (금액 지정) · 트레이너에서 직접 설정도 가능 |
+| `Shift+F5` | 탄약 무한 (아군) |
+| `PgUp` / `PgDn` | 배틀 스킬 발동률 1x – 100x (아군) |
+| `Home` / `End` | 스킬 연계율 1x – 100x |
+| — | 스킬 습득률 1x – 100x (트레이너에서 설정) |
+| — | 파일럿 스킬 편집: 스킬 추가 / 삭제, 레벨 1 – 6 (세이브에 저장) |
 
 ### 사용 방법
 
