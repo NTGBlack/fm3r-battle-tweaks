@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Front Mission 3 Remake" width="640">
+  <img src="assets/trainer-r4-en.png" alt="FM3 Remake +15 Trainer (r4) window" width="569">
 </p>
 
 <h1 align="center">Front Mission 3 Remake — +15 Trainer</h1>
