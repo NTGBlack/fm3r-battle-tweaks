@@ -19,7 +19,7 @@ Get the **with BepInEx** file (BepInEx 6 IL2CPP is included).
 3. Start the game — the **first start takes 1–3 minutes longer** while BepInEx prepares itself.
 4. In game press **Alt+O**.
 
-Uninstall: delete `BepInEx\plugins\FM3RBattleTweaks.dll` (or Steam → Verify integrity of game files).
+Uninstall: delete `BepInEx\plugins\FM3RBattleTweaks.dll`. To remove BepInEx too, delete `winhttp.dll`, `doorstop_config.ini`, `.doorstop_version` and the `BepInEx` and `dotnet` folders.
 
 ## Features
 
@@ -43,7 +43,8 @@ Uninstall: delete `BepInEx\plugins\FM3RBattleTweaks.dll` (or Steam → Verify in
 
 - Enemies are not affected by skill rates or unlimited ammo. A skill still needs its own conditions (weapon, range …).
 - Saved with your game: money, pilot skills, EXP and AceRank you earn. Back up your save before editing pilot skills.
-- Bug reports: attach `BepInEx\LogOutput.log` — [Discord](https://discord.gg/U4ZAwR6mfP) or the Nexus Mods Bugs tab.
+- Cheats are not remembered: every game start begins with all of them off / x1. Game speed is always x1 in the main menu and while loading.
+- Bug reports: attach `BepInEx\LogOutput.log` and the newest file in `BepInEx\FM3RBattleTweaks_logs` — [Discord](https://discord.gg/U4ZAwR6mfP) or the Nexus Mods Bugs tab.
 
 ## Links
 
